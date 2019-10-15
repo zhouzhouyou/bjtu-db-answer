@@ -1,4 +1,15 @@
 后果自负，不保证正确性。欢迎发issue~
+
+[简单查询](https://github.com/zhouzhouyou/bjtu-db-answer#%E7%AE%80%E5%8D%95%E6%9F%A5%E8%AF%A2)
+
+[复杂查询](https://github.com/zhouzhouyou/bjtu-db-answer#%E5%A4%8D%E6%9D%82%E6%9F%A5%E8%AF%A2)
+
+[更新操作](https://github.com/zhouzhouyou/bjtu-db-answer#%E6%9B%B4%E6%96%B0%E6%93%8D%E4%BD%9C)
+
+[定义存储过程](https://github.com/zhouzhouyou/bjtu-db-answer#%E5%AE%9A%E4%B9%89%E5%AD%98%E5%82%A8%E8%BF%87%E7%A8%8B)
+
+[触发器](https://github.com/zhouzhouyou/bjtu-db-answer#%E8%A7%A6%E5%8F%91%E5%99%A8)
+
 # 简单查询
 
 1. ```sql
