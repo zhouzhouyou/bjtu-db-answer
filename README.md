@@ -369,7 +369,7 @@
 	create or replace procedure insert_course (
 	    no varchar2,
 	    name varchar2,
-	    credit number := 4
+	    credit number default 4
 	)
 	is
 	begin
